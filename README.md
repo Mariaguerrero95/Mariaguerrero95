@@ -37,9 +37,9 @@ Here are my last project that showcase my skills and expertise:
 
 ### 📊 GitHub Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide=issues)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=YourUsername&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariaguerrero95&show_icons=true&theme=radical&hide=issues)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=mariaguerrero95&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariaguerrero95&layout=compact&theme=radical)
 
 ---
 
